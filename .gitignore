@@ -1,0 +1,8 @@
+dataset/*
+.ipynb_checkpoints
+__pycache__
+.idea/
+best_models/
+models/
+submission_logs/
+
